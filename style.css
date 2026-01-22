@@ -91,7 +91,7 @@ ul {
 .footer-logo {
     font-family: var(--font-heading);
     font-size: 1.8rem;
-    color: var(--color-primary);
+    color: white;
     display: inline-block;
     margin-bottom: 10px;
     font-weight: 500;
